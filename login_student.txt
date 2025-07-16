@@ -1,0 +1,25 @@
+
+
+
+GAHDSE24.1F-001
+pw001
+
+
+GAHDSE24.1F-002
+pw002
+
+
+GAHDSE24.1F-011
+pw011
+-------------------------------------
+If your checking Date is 7/16/2025 Because display only Today Classes
+
+
+select Department - Computer Science
+Subject - Machine Learning
+type rating - 1-5
+comment
+Submit
+
+
+----------------------------------

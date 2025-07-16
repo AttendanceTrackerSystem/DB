@@ -1,0 +1,26 @@
+Teacher Login
+--------------------------------------------------
+Tea001
+pwtc001
+
+
+select class - Week01 Lecture- Mathematics 
+Date = 07/14/2025
+
+---------------------------------------------------
+
+
+Tea007
+pwtc007
+
+select class - Week01 Lecture- MaChine Learning
+Date = 07/15/2025
+
+--------------------------------------------------
+
+Tea003
+pwtc003
+
+select class - Week01 Lecture- Machine Learning
+Date = 07/15/2025
+-----------------------------------------------
